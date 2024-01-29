@@ -1,7 +1,7 @@
 ### Hi there ,I'm Andrey 👋
 ### My stack
 
-![iocode-color](https://github.com/Andrey000001/Andrey000001/assets/116907910/1206432d-6776-41e8-8ea1-27967934959e)
+![iocode-color](width:20px height=20px https://github.com/Andrey000001/Andrey000001/assets/116907910/1206432d-6776-41e8-8ea1-27967934959e)
 ![javascript-color](https://github.com/Andrey000001/Andrey000001/assets/116907910/51b19321-c3aa-4479-afaf-33a1903e9da5)
 ![visualstudioappcenter-color](https://github.com/Andrey000001/Andrey000001/assets/116907910/b61b9393-3ebc-4335-88e5-43733e9504dd)
 ![css3-color](https://github.com/Andrey000001/Andrey000001/assets/116907910/33bcdf7a-ae77-4073-8725-22c6d4646bc7)
