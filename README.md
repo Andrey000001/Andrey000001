@@ -1,6 +1,17 @@
 <div align="center">
-  <img src="https://github.com/Andrey000001/andrey000001/raw/main/assets/banner.png" alt="Andrii Kovratovskyi – Full‑Stack Developer" style="max-width:100%;height:auto;border-radius:12px;" />
-</div>
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="180" viewBox="0 0 1400 180" preserveAspectRatio="xMidYMid slice">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0f2027" />
+        <stop offset="50%" stop-color="#203a43" />
+        <stop offset="100%" stop-color="#2c5364" />
+      </linearGradient>
+    </defs>
+    <rect width="1400" height="180" fill="url(#grad)" />
+    <text x="50%" y="50%" fill="#ffffff" font-size="42" font-family="Segoe UI, sans-serif" dominant-baseline="middle" text-anchor="middle">
+      Andrii Kovratovskyi • Full‑Stack Developer
+    </text>
+  </svg></div>
 
 <h1>Hi there, I'm Andrii 👋</h1>
 <p>
