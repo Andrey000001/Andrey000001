@@ -13,6 +13,11 @@ I'm a full‑stack web developer based in Miami, FL who loves turning ideas into
 <img src="https://github.com/user-attachments/assets/d16432cd-8ef3-48fe-854d-449f5881ad71" alt="MongoDB" width="50"/>
 <img src="https://github.com/user-attachments/assets/07c816ca-7b34-415e-b67a-82be2a7a7c41" alt="PostgresSQL" width="50"/>
 
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrey000001&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey000001&layout=compact&hide=css,html" height="165"/>
+</p>
 
-- **Email:** [kovratovskiy1999@gmail.com](mailto:kovratovskiy1999@gmail.com)
+**Email:** [kovratovskiy1999@gmail.com](mailto:kovratovskiy1999@gmail.com)
 
