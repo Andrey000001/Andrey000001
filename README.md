@@ -14,7 +14,5 @@ I'm a full‑stack web developer based in Miami, FL who loves turning ideas into
 <img src="https://github.com/user-attachments/assets/07c816ca-7b34-415e-b67a-82be2a7a7c41" alt="PostgresSQL" width="50"/>
 
 
-📫 How to reach me
-Email: kovratovskiy1999@gmail.com
--
-LinkedIn: andrii-kovratovskyi
+- **Email:** [kovratovskiy1999@gmail.com](mailto:kovratovskiy1999@gmail.com)
+
